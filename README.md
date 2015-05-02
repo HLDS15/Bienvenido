@@ -1,5 +1,4 @@
 # Bienvenido
-Introduccion
 
 Introducción
 
